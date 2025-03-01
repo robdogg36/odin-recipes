@@ -1,1 +1,1 @@
-# odin-recipes
+This project will involve creating a recipe website which will support me with practicing how to use images, links, and lists whilst using html.
